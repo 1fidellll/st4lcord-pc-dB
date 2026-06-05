@@ -3,6 +3,7 @@
     "text": "ST4LCORD VIP",
     "color": "#ff8c00",
     "textColor": "#ffffff",
-    "glow": "#ff8c00"
+    "glow": "#ff8c00",
+    "hideBadge": 0
   }
 }
