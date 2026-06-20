@@ -28,8 +28,9 @@
   },
   "902153214185598986": {
     "text": "ST4LCORD VIP",
-    "color": "#ff8c00",
-    "textColor": "#ffffff",
-    "glow": "#ff8c00"
+    "color": "#ad1f80",
+    "textColor": "#0033ff",
+    "glow": "#ff0000",
+    "hideBadge": 0
   }
 }
