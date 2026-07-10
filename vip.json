@@ -13,10 +13,10 @@
     "glow": "#ff8c00"
   },
   "236673543570587658": {
-    "text": "uhq",
-    "color": "#ffffff",
-    "textColor": "#ff0000",
-    "glow": "#ff0000",
+    "text": "vip",
+    "color": "#000000",
+    "textColor": "#ffffff",
+    "glow": "#000000",
     "hideBadge": 0
   }
 }
